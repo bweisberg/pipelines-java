@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/benj5707/firstpipe/_apis/build/status/bweisberg.pipelines-java?branchName=master)](https://dev.azure.com/benj5707/firstpipe/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
